@@ -1,6 +1,5 @@
 from fastapi import FastAPI
-# from pydantic import BaseModel
-from routers import user
+from src import routers
 
 app = FastAPI()
-app.include_router(user.router)
+app.include_router(routers.router)

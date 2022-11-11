@@ -1,1 +1,10 @@
 .deta
+
+__pycache__
+.DS_Store
+.env
+.deta
+wc_image_ja.png
+
+.*
+!.gitignore

@@ -1,0 +1,15 @@
+slack_sdk
+# fake_useragent
+# beautifulsoup4
+# pandas
+# wordcloud
+# macab本体のインストール
+# mecab-python3
+# ライブラリのインストール
+# unidic-lite
+# slack_bolt
+slackbot
+python-dotenv
+
+fastapi
+requests
